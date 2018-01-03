@@ -1,7 +1,5 @@
 ##梯度下降
 import Curve
-import numpy as np
-import matplotlib.pyplot as plt
 
 #目标函数
 def f(x):
